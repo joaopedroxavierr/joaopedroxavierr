@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/joaopedroxavierr">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=joaopedroxavierr&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroxavierr&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=joaopedroxavierr&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroxavierr&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Joao-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
