@@ -1,8 +1,8 @@
 ## Oi! Eu sou João Pedro Xavier 😄
 
 - 🏢 Alterdata Software
-- 💻 Atualmente trabalho como Analista de Suporte
-- 🌱 Estudando Front-End
+- 💻 Atualmente trabalho como QA Engineer
+- 🌱 Estudando Quality Assurance
 
 <div align="center">
   <a href="https://github.com/joaopedroxavierr">
